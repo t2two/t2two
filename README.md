@@ -1,127 +1,137 @@
+<div align="center">
+
+```text
+██████╗  ██████╗ ███████╗██╗  ██╗ █████╗ ███╗   ██╗
+██╔══██╗██╔═══██╗██╔════╝██║  ██║██╔══██╗████╗  ██║
+██████╔╝██║   ██║███████╗███████║███████║██╔██╗ ██║
+██╔══██╗██║   ██║╚════██║██╔══██║██╔══██║██║╚██╗██║
+██║  ██║╚██████╔╝███████║██║  ██║██║  ██║██║ ╚████║
+╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
+
 > roshan.exe
+┌─────────────────────────────────────────────┐
+│                                             │
+│       S T U D E N T  /  D E V E L O P E R  │
+│                                             │
+│       linux  •  java  •  c  •  github      │
+│                                             │
+└─────────────────────────────────────────────┘
+learning → building → breaking → fixing → repeat
+</div>
+> whoami
 
-<img align="right" width="300" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
-┌──────────────────────────────────────┐
-│  Student • Developer • Linux user    │
-│                                      │
-│  learning → building → breaking →   │
-│  fixing → repeating                  │
-└──────────────────────────────────────┘
+I’m Roshan, a student learning software development and experimenting with technology.
 
-$ whoami
+I’m interested in programming, Linux, GitHub, AI, gaming and creative digital projects.
 
-I’m Roshan, a student interested in software, Linux, programming, and digital projects.
-
-Currently learning and experimenting with:
-
-* ☕ Java
-* 💻 C / Programming fundamentals
-* 🐧 Linux, Arch & Hyprland
-* 🌐 Git & GitHub
-* 🗄️ Databases & data management
-* 🌐 Networking fundamentals
-* 🤖 AI & emerging technologies
-
-I don’t claim to know everything — I’m mostly here to learn by building things.
-
-⸻
-
-> tech_stack
+I don’t know everything yet — most of my projects are part of figuring things out and getting better.
+┌──[ roshan@linux ]─[ ~/github ]
+│
+├─$ ./roshan
+│
+│  initializing...
+│  ████████████████████ 100%
+│
+├─$ status
+│
+│  learning...
+│  building...
+│  experimenting...
+│
+└────────────────────────────────────────────
+> tech
 
 Languages
-├── Java          ██████░░░░
-├── C             █████░░░░░
-└── Python        ███░░░░░░░   experimenting
+Java        ██████░░░░
+C           █████░░░░░
+Python      ███░░░░░░░   experimenting
+
 Tools & Environment
-├── Linux / Arch
-├── Git & GitHub
-├── Hyprland
-└── VS Code / IDEs
-Currently learning
-├── Better Java
-├── Data structures & problem solving
-├── Web / software development
-└── AI tools & APIs
+Linux       ███████░░░
+Git/GitHub   ██████░░░░
+Hyprland     ██████░░░░
+VS Code      ███████░░░
 
-⸻
+These aren’t professional skill ratings — just a rough representation of what I’m currently learning and using.
 
-> current_setup
-
-OS:        Linux
-Desktop:   Hyprland
-Distro:    Arch-based
-Editor:    VS Code
-Terminal:  Kitty
-Focus:     Learning + experimenting
-
-⸻
+> currently_learning
+┌─────────────────────────────────────────────┐
+│                                             │
+│  → Improving Java                           │
+│  → Programming fundamentals                 │
+│  → Data structures & problem solving        │
+│  → Git & GitHub                             │
+│  → Linux & system customization             │
+│  → Web / software development               │
+│  → AI tools & APIs                          │
+│                                             │
+└─────────────────────────────────────────────┘
 
 > projects
 
-🧪 Things I’m building / experimenting with
+Java
 
-Java Programs
-Small programs and exercises focused on learning programming fundamentals, OOP, exceptions, generics and problem solving.
+Small programs and exercises covering programming fundamentals, OOP, exceptions, generics and problem solving.
 
-Linux Customization
-Experimenting with Arch-based Linux, Hyprland, SDDM, Waybar and different desktop configurations.
+Linux
 
-GitHub Projects
-Using Git and GitHub to learn version control and keep track of things I build.
+Experimenting with an Arch-based Linux setup, Hyprland, SDDM, Waybar and desktop customization.
 
-AI Experiments
-Exploring AI tools and APIs and learning how they can be used inside applications.
+GitHub
 
-Most of my projects are part of the learning process — expect experiments, bugs and occasional questionable decisions.
+Using Git and GitHub to learn version control and manage my projects.
 
-⸻
+AI
 
-> beyond_code
+Exploring AI tools and APIs and learning how they can be integrated into applications.
 
-I’m also interested in:
+> setup
+OS:        Linux
+Distro:    Arch-based
+Desktop:   Hyprland
+Terminal:  Kitty
+Editor:    VS Code
+Focus:     Learning + experimenting
 
-* 🎮 Gaming
-* 🎬 Documentary / history content
-* 📱 Social media & content creation
-* 🎨 Digital creativity
-* 🧠 Learning how technology actually works
-
-I like projects that combine technology + creativity.
-
-⸻
+> interests
+╭──────────────────────────────────────────────╮
+│                                              │
+│  🎮  Gaming                                  │
+│  💻  Software & Technology                   │
+│  🐧  Linux                                   │
+│  🎬  History & Documentary Content           │
+│  🤖  Artificial Intelligence                 │
+│  🎨  Digital Creativity                      │
+│                                              │
+╰──────────────────────────────────────────────╯
 
 > github_stats
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="170">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=00000000" height="170">
+</div>
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=00000000" />
-</p>
+> contribution_graph
+<div align="center">
+</div>
 
-⸻
+> terminal
+┌──[ roshan@linux ]─[ ~ ]
+│
+├─$ neofetch
+│
+│   OS:        Arch-based Linux
+│   DE:        Hyprland
+│   Shell:     bash
+│   Editor:    VS Code
+│
+├─$ echo $CURRENT_STATUS
+│
+│   "still learning."
+│
+├─$ echo $NEXT
+│
+│   "build something better."
+│
+└──[ ~ ]─$
 
-> currently
-
-[████████████████░░░░] Learning
-→ Improving Java
-→ Building more projects
-→ Getting better with Linux
-→ Learning software development
-→ Exploring AI
-
-⸻
-
-> contact
-
-<p align="center">
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
-
-⸻
-
-<p align="center">
-  <i>Still learning. Still building.</i>
-</p>
-<p align="center">
-  <code>01000110 01101111 01110010 01110111 01100001 01110010 01100100</code>
-</p>
