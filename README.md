@@ -26,7 +26,6 @@
 ██║  ██║╚██████╔╝███████║██║  ██║██║  ██║██║ ╚████║
 ╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
 > whoami
-Plaintext
 ┌─────────────────────────────────────────────────────────────┐
 │                                                             │
 │   Hello, I'm Roshan.                                       │
@@ -45,13 +44,13 @@ Plaintext
 > tech_stack
 Languages
 
-Plaintext
+
 Java        ██████░░░░  Learning & practicing
 C           █████░░░░░  Fundamentals
 Python      ███░░░░░░░  Exploring
 Tools & Environment
 
-Plaintext
+
 Linux       ███████░░░  Daily experimentation
 Git         ██████░░░░  Learning version control
 GitHub      ██████░░░░  Projects & repositories
@@ -60,7 +59,7 @@ Bash        █████░░░░░  Terminal work
 Skill bars represent familiarity and current learning, not professional proficiency.
 
 > currently_learning
-Plaintext
+
 ┌─────────────────────────────────────────────────────────────┐
 │                                                             │
 │  [01] ████████████████████  Java                           │
@@ -73,7 +72,7 @@ Plaintext
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
 > projects
-Plaintext
+
 ┌─────────────────────────────────────────────────────────────┐
 │                                                             │
 │  JAVA                                                       │
@@ -100,7 +99,7 @@ Things I'm building:
 📦 Personal GitHub open-source repositories
 
 > linux_setup
-Plaintext
+
 OS:          Arch-based Linux
 Desktop:     Hyprland
 Shell:       Bash
@@ -113,10 +112,6 @@ Focus:
 > interests
 🎮 Gaming  |  💻 Software & Tech  |  🐧 Linux  |  🤖 AI  |  🎬 History & Docs  |  🎨 Digital Creativity
 
-> github_stats
-> top_languages
-> contribution_activity
-> contribution_snake
 > terminal
 Plaintext
 ┌──[ roshan@linux ]─[ ~ ]
@@ -147,8 +142,9 @@ Plaintext
 │   "build something better."
 │
 └──[ roshan@linux ]─$
+
 > philosophy
-Plaintext
+
 ╔══════════════════════════════════════════════════════╗
 ║                                                      ║
 ║       Don't try to know everything.                  ║
