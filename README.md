@@ -17,147 +17,37 @@
 </div>
 
 <br>
+<div align="center">
 
-```ascii
-██████╗  ██████╗ ███████╗██╗  ██╗ █████╗ ███╗   ██╗
-██╔══██╗██╔═══██╗██╔════╝██║  ██║██╔══██╗████╗  ██║
-██████╔╝██║   ██║███████╗███████║███████║██╔██╗ ██║
-██╔══██╗██║   ██║╚════██║██╔══██║██╔══██║██║╚██╗██║
-██║  ██║╚██████╔╝███████║██║  ██║██║  ██║██║ ╚████║
-╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
+# ʀᴏsʜᴀɴ
+
+### `Student • Developer • Linux Enthusiast`
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=8B9BB4&center=true&vCenter=true&width=600&lines=Learning+%7C+Building+%7C+Breaking+%7C+Fixing;Java+%7C+C+%7C+Linux;Exploring+the+world+of+open+source;Currently+turning+ideas+into+projects..." alt="Typing SVG" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=1f2937&label=PROFILE+VIEWS" />
+
+</div>
+
+---
+
 > whoami
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│   Hello, I'm Roshan.                                       │
-│                                                             │
-│   I'm a student learning software development and           │
-│   experimenting with technology, Linux and AI.             │
-│                                                             │
-│   I enjoy building small projects, learning how things      │
-│   work, customizing my Linux environment and exploring      │
-│   new technologies.                                        │
-│                                                             │
-│   Currently focused on improving my programming             │
-│   fundamentals and becoming a better developer.             │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-> tech_stack
-Languages
 
+```text
+┌─────────────────────────────────────────────────────┐
+│                                                     │
+│  Name       : Roshan                                │
+│  Role       : Student / Developer                   │
+│  Focus      : Programming + Linux + Open Source    │
+│  Currently  : Learning & building                   │
+│  OS         : Linux                                 │
+│  Editor     : Whatever gets the job done            │
+│                                                     │
+└─────────────────────────────────────────────────────┘
 
-Java        ██████░░░░  Learning & practicing
-C           █████░░░░░  Fundamentals
-Python      ███░░░░░░░  Exploring
-Tools & Environment
-
-
-Linux       ███████░░░  Daily experimentation
-Git         ██████░░░░  Learning version control
-GitHub      ██████░░░░  Projects & repositories
-VS Code     ███████░░░  Main editor
-Bash        █████░░░░░  Terminal work
-Skill bars represent familiarity and current learning, not professional proficiency.
-
-> currently_learning
-
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│  [01] ████████████████████  Java                           │
-│  [02] █████████████████░░░  Programming Fundamentals       │
-│  [03] ███████████████░░░░░  Data Structures                │
-│  [04] ██████████████░░░░░░  Git & GitHub                   │
-│  [05] ███████████████░░░░░  Linux & Customization          │
-│  [06] ████████████░░░░░░░░  Web Development                │
-│  [07] ██████████░░░░░░░░░░  AI & APIs                      │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-> projects
-
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│  JAVA                                                       │
-│  └─ Small programs, OOP, exceptions, generics & exercises  │
-│                                                             │
-│  LINUX                                                      │
-│  └─ Arch-based setup, Hyprland & desktop customization     │
-│                                                             │
-│  GITHUB                                                     │
-│  └─ Learning Git, repositories & version control            │
-│                                                             │
-│  AI                                                         │
-│  └─ Exploring AI tools, APIs & application integration      │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-Things I'm building:
-
-☕ Java practice projects & programming exercises
-
-🐧 Linux desktop customization & small automation experiments
-
-🤖 AI/API integration experiments
-
-📦 Personal GitHub open-source repositories
-
-> linux_setup
-
-OS:          Arch-based Linux
-Desktop:     Hyprland
-Shell:       Bash
-Editor:      VS Code
-Versioning:  Git
-Platform:    GitHub
-
-Focus:
-└── Learning • Customizing • Experimenting
-> interests
-🎮 Gaming  |  💻 Software & Tech  |  🐧 Linux  |  🤖 AI  |  🎬 History & Docs  |  🎨 Digital Creativity
-
-> terminal
-Plaintext
-┌──[ roshan@linux ]─[ ~ ]
-│
-├─$ neofetch
-│
-│   OS:        Arch-based Linux
-│   DE:        Hyprland
-│   Shell:     Bash
-│   Editor:    VS Code
-│
-├─$ whoami
-│
-│   student / developer
-│
-├─$ status
-│
-│   learning...
-│   building...
-│   experimenting...
-│
-├─$ echo $CURRENT_STATUS
-│
-│   "still learning."
-│
-├─$ echo $NEXT
-│
-│   "build something better."
-│
-└──[ roshan@linux ]─$
-
-> philosophy
-
-╔══════════════════════════════════════════════════════╗
-║                                                      ║
-║       Don't try to know everything.                  ║
-║                                                      ║
-║       Learn something.                               ║
-║       Build something.                               ║
-║       Break something.                               ║
-║       Understand why.                                ║
-║       Fix it.                                        ║
-║       Repeat.                                        ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
-> find_me
+<br>
 
 
 ────────────────────────────────────────────────
