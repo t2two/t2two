@@ -104,6 +104,20 @@ Web & Software Development
 
 </div>
 
+---
+
+## 📊 My GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=t2two&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=t2two&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
 > connect
 <div align="center"> <a href="https://github.com/t2two"> <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/> </a>
 
