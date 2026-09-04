@@ -90,8 +90,7 @@ Web & Software Development
 <br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:334155&height=120&section=footer"/> </div>
-
-
+```
 ────────────────────────────────────────────────
 
              still learning.
@@ -99,3 +98,4 @@ Web & Software Development
 
 ────────────────────────────────────────────────
 © Roshan • Built with Markdown & curiosity
+```
