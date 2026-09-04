@@ -27,8 +27,6 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=1f2937&label=PROFILE+VIEWS" />
-
 </div>
 
 ---
@@ -46,8 +44,52 @@
 │  Editor     : Whatever gets the job done            │
 │                                                     │
 └─────────────────────────────────────────────────────┘
+```
+> tech_stack
+Languages
+<p> <img src="https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=ED8B00"/> <img src="https://img.shields.io/badge/C-111827?style=for-the-badge&logo=c&logoColor=A8B9CC"/> </p>
 
-<br>
+Tools & Environment
+<p> <img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=FCC624"/> <img src="https://img.shields.io/badge/Arch-111827?style=for-the-badge&logo=archlinux&logoColor=1793D1"/> <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032"/> <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=FFFFFF"/> </p>
+
+Currently Exploring
+Java
+C
+Linux / Arch
+Hyprland
+Git & GitHub
+Open Source
+Web & Software Development
+
+> linux.exe
+```
+          .--.
+         |o_o |
+         |:_/ |
+        //   \ \
+       (|     | )
+      /'\_   _/`\
+      \___)=(___/
+
+        LINUX USER
+```
+
+> github_stats
+
+<div align="center"> 
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=t2two&show_icons=true&hide_border=true&bg_color=00000000&title_color=8B9BB4&text_color=9CA3AF&icon_color=8B9BB4" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=t2two&layout=compact&hide_border=true&bg_color=00000000&title_color=8B9BB4&text_color=9CA3AF" /> </div>
+
+> activity
+<div align="center"> 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=t2two&bg_color=0d1117&color=8B9BB4&line=64748b&point=cbd5e1&area=true&hide_border=true" width="95%"/> </div>
+
+
+> connect
+<div align="center"> <a href="https://github.com/t2two"> <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/> </a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:334155&height=120&section=footer"/> </div>
 
 
 ────────────────────────────────────────────────
