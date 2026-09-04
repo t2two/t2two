@@ -74,15 +74,35 @@ Web & Software Development
         LINUX USER
 ```
 
-> github_stats
+## `> github_stats`
 
-<div align="center"> 
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=t2two&show_icons=true&hide_border=true&bg_color=00000000&title_color=8B9BB4&text_color=9CA3AF&icon_color=8B9BB4" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=t2two&layout=compact&hide_border=true&bg_color=00000000&title_color=8B9BB4&text_color=9CA3AF" /> </div>
+<div align="center">
 
-> activity
-<div align="center"> 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=t2two&bg_color=0d1117&color=8B9BB4&line=64748b&point=cbd5e1&area=true&hide_border=true" width="95%"/> </div>
+<img
+  src="https://github-readme-stats.vercel.app/api?username=t2two&show_icons=true&hide_border=true&theme=github_dark"
+  height="180"
+  alt="GitHub Stats"
+/>
 
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=t2two&layout=compact&hide_border=true&theme=github_dark"
+  height="180"
+  alt="Top Languages"
+/>
+
+</div>
+
+## `> activity`
+
+<div align="center">
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=t2two&theme=github-dark&hide_border=true"
+  width="95%"
+  alt="GitHub Activity Graph"
+/>
+
+</div>
 
 > connect
 <div align="center"> <a href="https://github.com/t2two"> <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/> </a>
